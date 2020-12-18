@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<linker>  
+    <assembly fullname="BouncyCastle.Crypto" preserve="all" />
+    <assembly fullname="Google.Protobuf" preserve="all" />
+    <assembly fullname="K4os.Compression.LZ4" preserve="all" />
+    <assembly fullname="K4os.Compression.LZ4.Streams" preserve="all" />
+    <assembly fullname="K4os.Hash.xxHash" preserve="all" />
+    <assembly fullname="MySql.Data" preserve="all" />	  
+    <assembly fullname="Renci.SshNet" preserve="all" />
+    <assembly fullname="SshNet.Security.Cryptography" preserve="all" />
+    <assembly fullname="System.Buffers" preserve="all" />
+    <assembly fullname="System.Memory" preserve="all" />
+    <assembly fullname="System.Runtime.CompilerServices.Unsafe" preserve="all" />
+    <assembly fullname="Ubiety.Dns.Core" preserve="all" />	
+    <assembly fullname="Zstandard.Net" preserve="all" />
+</linker>
